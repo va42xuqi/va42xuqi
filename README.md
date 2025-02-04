@@ -1,6 +1,6 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Transformer models, Large Language Models, Computer science
 - 🌱 I’m currently learning Tranformer Models
-- 📫 How to reach me denisgosalci@outlook.de
+- 📫 How to reach me denisgosalci@proton.me
 - 😄 Pronouns: he/him
 
 <!---
