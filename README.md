@@ -62,5 +62,3 @@ def train(model, data):
 MIT License – frei nutzbar und erweiterbar
 
 ---
-
-> Sauber. Minimal. Reproduzierbar. Perfekt für Experimente mit Fokus auf Inhalt statt Struktur.
